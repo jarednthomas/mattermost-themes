@@ -175,3 +175,5 @@
 "linkColor":"#FFCA05",
 "errorTextColor":"#f74344"}
 ```
+
+More themes can be found at [https://avasconcelos114.github.io/mattermost-themes/](https://avasconcelos114.github.io/mattermost-themes/).
