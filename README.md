@@ -116,32 +116,31 @@
 
 ```
 {"codeTheme":"lucent",
-"centerChannelBg":"#cccccc",
+"centerChannelBg":"#dddddd",
 "centerChannelColor":"#000000",
-"sidebarBg":"#aaaaaa",
-"sidebarText":"#000000",
-"sidebarTextHoverBg":"#999999",
+"sidebarBg":"#333333",
+"sidebarText":"#ffffff",
+"sidebarTextHoverBg":"#bbbbbb",
 "sidebarUnreadText":"#ffffff",
-"sidebarTeamBarBg":"#008080",
-"sidebarHeaderBg":"#008080",
-"sidebarHeaderTextColor":"#000000",
+"sidebarTeamBarBg":"#329999",
+"sidebarHeaderBg":"#329999",
+"sidebarHeaderTextColor":"#ffffff",
 "sidebarTextActiveBorder":"#1bba56",
 "sidebarTextActiveColor":"#1bba56",
-"mentionBg":"#FFCA05",
+"mentionBg":"#008080",
 "mentionBj":"#008080",
 "mentionColor":"#ffffff",
-"mentionHighlightBg":"#008080",
-"mentionHighlightLink":"#ffffff",
+"mentionHighlightBg":"#FFCA05",
+"mentionHighlightLink":"#000000",
 "buttonBg":"#FFCA05",
 "buttonColor":"#000000",
-"newMessageSeparator":"#717171",
+"newMessageSeparator":"#aaaaaa",
 "onlineIndicator":"#1bba56",
 "awayIndicator":"#FFCA04",
 "dndIndicator":"#fc3d03",
-"linkColor":"#008080",
+"linkColor":"#005959",
 "errorTextColor":"#f74344"}
 ```
-
 
 ---
 
