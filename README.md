@@ -120,7 +120,7 @@
 "centerChannelColor":"#000000",
 "sidebarBg":"#333333",
 "sidebarText":"#ffffff",
-"sidebarTextHoverBg":"#bbbbbb",
+"sidebarTextHoverBg":"#444444",
 "sidebarUnreadText":"#ffffff",
 "sidebarTeamBarBg":"#329999",
 "sidebarHeaderBg":"#329999",
