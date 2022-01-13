@@ -1,12 +1,12 @@
 # mattermost-themes
 
 ### Instructions: 
-- Click the Settings icon (gear) in the top right of the Mattermost UI.
+- Click the Settings icon (gear) in the top right of the Mattermost UI
 
-- Navigate to `Dislay` -> `Theme` and enable `Custom Theme`. 
+- Navigate to `Dislay` -> `Theme` and enable `Custom Theme`
 
 - Paste any block of code below into the textarea labelled:
-*"Copy and paste to share theme colors:"*
+*"Copy and paste to share theme colors:"* and save
 
 ---
 
@@ -116,23 +116,23 @@
 
 ```
 {"codeTheme":"lucent",
-"centerChannelBg":"#dddddd",
+"centerChannelBg":"#cccccc",
 "centerChannelColor":"#000000",
-"sidebarBg":"#bbbbbb",
+"sidebarBg":"#aaaaaa",
 "sidebarText":"#000000",
-"sidebarTextHoverBg":"#008080",
-"sidebarUnreadText":"#aaaaaa",
+"sidebarTextHoverBg":"#999999",
+"sidebarUnreadText":"#ffffff",
 "sidebarTeamBarBg":"#008080",
 "sidebarHeaderBg":"#008080",
-"sidebarHeaderTextColor":"#ffffff",
+"sidebarHeaderTextColor":"#000000",
 "sidebarTextActiveBorder":"#1bba56",
 "sidebarTextActiveColor":"#1bba56",
-"mentionBg":"#008080",
+"mentionBg":"#FFCA05",
 "mentionBj":"#008080",
 "mentionColor":"#ffffff",
 "mentionHighlightBg":"#008080",
 "mentionHighlightLink":"#ffffff",
-"buttonBg":"#FFCA05",
+"buttonBg":"#008080",
 "buttonColor":"#ffffff",
 "newMessageSeparator":"#717171",
 "onlineIndicator":"#1bba56",
@@ -150,7 +150,7 @@
 ![](previews/lucent-dark.png)
 
 ```
-{"codeTheme":"lucent",
+{"codeTheme":"lucent-dark",
 "centerChannelBg":"#2b2b2b",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#1e1e1e",
@@ -184,7 +184,7 @@
 ![](previews/lucent-bold.png)
 
 ```
-{"codeTheme":"lucent",
+{"codeTheme":"lucent-bold",
 "centerChannelBg":"#134949",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#1e7171",
@@ -213,4 +213,4 @@
 
 ---
 
-More themes can be found at [https://avasconcelos114.github.io/mattermost-themes/](https://avasconcelos114.github.io/mattermost-themes/).
+More themes can be found at [https://avasconcelos114.github.io/mattermost-themes/](https://avasconcelos114.github.io/mattermost-themes/)
