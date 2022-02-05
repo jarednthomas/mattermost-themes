@@ -110,12 +110,12 @@
 
 ---
 
-## Lucent 
+## Lucent Light
 
 ![](previews/lucent.png)
 
 ```
-{"codeTheme":"lucent",
+{"codeTheme":"lucent-light",
 "centerChannelBg":"#dddddd",
 "centerChannelColor":"#000000",
 "sidebarBg":"#333333",
@@ -140,6 +140,40 @@
 "dndIndicator":"#fc3d03",
 "linkColor":"#005959",
 "errorTextColor":"#f74344"}
+```
+
+---
+
+## Lucent Grey
+
+![](previews/lucent-grey.png)
+
+```
+{"codeTheme":"lucent-pangolin",
+"centerChannelBg":"#414042",
+"centerChannelColor":"#ffffff",
+"sidebarBg":"#232223",
+"sidebarText":"#ffffff",
+"sidebarTextHoverBg":"#3aadaa",
+"sidebarUnreadText":"#ffffff",
+"sidebarTeamBarBg":"#3aadaa",
+"sidebarHeaderBg":"#3aadaa",
+"sidebarHeaderTextColor":"#ffffff",
+"sidebarTextActiveBorder":"#3aadaa",
+"sidebarTextActiveColor":"#3aadaa",
+"mentionBg":"#ffca05",
+"mentionBj":"#ffca05",
+"mentionColor":"#ffffff",
+"mentionHighlightBg":"#3aadaa",
+"mentionHighlightLink":"#ffffff",
+"buttonBg":"#3aadaa",
+"buttonColor":"#ffffff",
+"newMessageSeparator":"#313131",
+"onlineIndicator":"#3aadaa",
+"awayIndicator":"#ffca05",
+"dndIndicator":"#fc0347",
+"linkColor":"#ffca05",
+"errorTextColor":"#fc0347"}
 ```
 
 ---
@@ -178,7 +212,7 @@
 
 ---
 
-## Lucent Bold
+<!-- ## Lucent Bold
 
 ![](previews/lucent-bold.png)
 
@@ -210,6 +244,6 @@
 "errorTextColor":"#f74344"}
 ```
 
----
+--- -->
 
 More themes can be found at [https://avasconcelos114.github.io/mattermost-themes/](https://avasconcelos114.github.io/mattermost-themes/)
