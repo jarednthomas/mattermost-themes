@@ -203,7 +203,7 @@
 "buttonBg":"#ffca05",
 "buttonColor":"#1e1e1e",
 "newMessageSeparator":"#ffca05",
-"onlineIndicator":"#008080",
+"onlineIndicator":"#3aadaa",
 "awayIndicator":"#FFCA04",
 "dndIndicator":"#fc3d03",
 "linkColor":"#FFCA05",
