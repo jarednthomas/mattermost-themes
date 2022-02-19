@@ -212,38 +212,4 @@
 
 ---
 
-<!-- ## Lucent Bold
-
-![](previews/lucent-bold.png)
-
-```
-{"codeTheme":"lucent-bold",
-"centerChannelBg":"#134949",
-"centerChannelColor":"#ffffff",
-"sidebarBg":"#1e7171",
-"sidebarText":"#ffffff",
-"sidebarTextHoverBg":"#e6e6e6",
-"sidebarUnreadText":"#ffffff",
-"sidebarTeamBarBg":"#d2a500",
-"sidebarHeaderBg":"#1e7171",
-"sidebarHeaderTextColor":"#ffffff",
-"sidebarTextActiveBorder":"#1bba56",
-"sidebarTextActiveColor":"#1bba56",
-"mentionBg":"#FFCA05",
-"mentionBj":"#FFCA05",
-"mentionColor":"#ffffff",
-"mentionHighlightBg":"#1e7171",
-"mentionHighlightLink":"#ffffff",
-"buttonBg":"#FFCA05",
-"buttonColor":"#313131",
-"newMessageSeparator":"#313131",
-"onlineIndicator":"#1bba56",
-"awayIndicator":"#FFCA04",
-"dndIndicator":"#fc3d03",
-"linkColor":"#FFCA05",
-"errorTextColor":"#f74344"}
-```
-
---- -->
-
 More themes can be found at [https://avasconcelos114.github.io/mattermost-themes/](https://avasconcelos114.github.io/mattermost-themes/)
