@@ -15,7 +15,7 @@
 ![](previews/slack.png)
 
 ```
-{"codeTheme":"slack",
+{"codeTheme":"monokai",
 "centerChannelBg":"#ffffff",
 "centerChannelColor":"#3f4350",
 "sidebarBg":"#3f0e40",
@@ -48,7 +48,7 @@
 ![](previews/slack-dark.png)
 
 ```
-{"codeTheme":"slack-dark",
+{"codeTheme":"monokai",
 "centerChannelBg":"#121214",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#19171d",
@@ -81,7 +81,7 @@
 
 ![](previews/spotify-orange.png)
 ```
-{"codeTheme":"spotify-orange",
+{"codeTheme":"monokai",
 "centerChannelBg":"#181818",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#121212",
@@ -115,7 +115,7 @@
 ![](previews/lucent.png)
 
 ```
-{"codeTheme":"lucent-light",
+{"codeTheme":"monokai",
 "centerChannelBg":"#dddddd",
 "centerChannelColor":"#000000",
 "sidebarBg":"#333333",
@@ -149,7 +149,7 @@
 ![](previews/lucent-grey.png)
 
 ```
-{"codeTheme":"lucent-pangolin",
+{"codeTheme":"monokai",
 "centerChannelBg":"#414042",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#232223",
@@ -183,7 +183,7 @@
 ![](previews/lucent-dark.png)
 
 ```
-{"codeTheme":"lucent-dark",
+{"codeTheme":"solarized-dark",
 "centerChannelBg":"#2b2b2b",
 "centerChannelColor":"#ffffff",
 "sidebarBg":"#1e1e1e",
